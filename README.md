@@ -1,7 +1,7 @@
 # FDS Final Project 2025 — X-ray Prohibited Item Classification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-->aggiungere link<-)
+->https://colab.research.google.com/drive/1wThjIaRl1tqCkzbg9Z5ZybxNBhqlEC_s?usp=sharing<-)
 
 
 Repository for the final project of the course *Fundamentals of Data Science*  
